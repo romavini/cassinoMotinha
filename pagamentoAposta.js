@@ -4,5 +4,6 @@ function pagamentoAposta(ganhou,fichasApostadas) {
   } else {
     fichasApostadas = 0
   };
+  
   return fichasApostadas;
 };
